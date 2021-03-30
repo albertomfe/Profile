@@ -13,9 +13,6 @@
 - 🎮 Soy amante de los videojuegos 😎
 
 
-### Connect with me:
-[<img align="left" alt="https://baulprogram.com.mx" width="22px" src="https://baulprogram.com.mx/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="manuel-flores-esparza-3436a8aa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ### Lenguajes y Herramientas:
